@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1804E0EE-0B52-479D-80C8-5DD9158CEDD6}</ProjectGuid>
+    <ProjectGuid>{BEC3250D-21D2-40C4-94CD-C9B0E64433C3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.SvitkovIA.Sprint1.Task1.V8</RootNamespace>
-    <AssemblyName>Tyuiu.SvitkovIA.Sprint1.Task1.V8</AssemblyName>
+    <RootNamespace>Tyuiu.SvitkovIA.Sprint1.Task1.V2</RootNamespace>
+    <AssemblyName>Tyuiu.SvitkovIA.Sprint1.Task1.V2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
