@@ -12,7 +12,7 @@ namespace Tyuiu.SvitkovIA.Sprint1.Task2.V1.Lib
     {
         public double ConvertKmToM(int value)
         {
-            return (value / 1.61);
+            return (value / 1.6);
         }
     }
 }

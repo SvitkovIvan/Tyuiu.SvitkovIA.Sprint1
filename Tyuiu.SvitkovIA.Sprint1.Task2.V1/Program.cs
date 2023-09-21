@@ -24,7 +24,7 @@ namespace Tyuiu.SvitkovIA.Sprint1.Task2.V1
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, *");
-            Console.WriteLine("* вычисляет расстояние в милях и печатает результат на экране.            *");
+            Console.WriteLine("* вычисляет расстояние в милях и печатает его на экране.                  *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
@@ -40,10 +40,8 @@ namespace Tyuiu.SvitkovIA.Sprint1.Task2.V1
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Расстояние в милях = " + x/1.61f);
-
+            Console.WriteLine("Расстояние в милях = " + x/1.6f);
             Console.ReadLine();
-
         }
     }
 }
