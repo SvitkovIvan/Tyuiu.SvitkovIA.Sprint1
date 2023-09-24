@@ -13,7 +13,7 @@ namespace Tyuiu.SvitkovIA.Sprint1.Task4.V2.Lib
     {
         public double Calculate(double x, double y)
         {
-           var res = 1 / Math.Sqrt(x + 2 * y);
+            var res = 1 / Math.Sqrt(x + 2 * y);
            return res;
         }
     }
