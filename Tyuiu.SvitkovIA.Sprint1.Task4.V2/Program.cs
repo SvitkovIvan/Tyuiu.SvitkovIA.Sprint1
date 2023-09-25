@@ -30,12 +30,12 @@ namespace Tyuiu.SvitkovIA.Sprint1.Task4.V2
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            double x, y;
+            int x, y;
 
             Console.WriteLine("Введите значение X:");
-            x = Convert.ToDouble(Console.ReadLine());
+            x = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите значение Y:");
-            y = Convert.ToDouble(Console.ReadLine());
+            y = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
